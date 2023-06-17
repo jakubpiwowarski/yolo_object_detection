@@ -3,10 +3,15 @@ This script implements object detection using the YOLO (You Only Look Once) mode
 
 ## Features
 -Initialization of webcam or video player.
+
 -Initialization of the YOLO model using pre-trained weights.
+
 -Detection and tracking of objects on the current frames.
+
 -Drawing bounding boxes around the detected objects.
+
 =Displaying labels with class names and detection confidence.
+
 
 ## Required Libraries
 -ultralytics: Library containing the YOLO implementation and interface for using it.
